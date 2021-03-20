@@ -7,4 +7,6 @@ public class Tablero {
 	
 	
 	// Ivan Mata ha estado aqui
+	
+	//segunda prueba 
 }
